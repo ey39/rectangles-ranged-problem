@@ -1,0 +1,20 @@
+19IC第08组大作业
+|--19IC第08组大作业报告.pdf		//pdf版报告
+|--19IC第08组大作业报告.docx		//doc版报告
+|--TestCode			//测试代码（环境：python=3.8，bighw）
+|   |--ZYC_G1.ipynb			//ami33测试
+|   |--ZYC_G2.ipynb			//ami33测试（回火）
+|   |--ZYC_G3.ipynb			//ami33测试（增加迭代次数）
+|   |--ZYC_G4.ipynb			//ami33测试（增加初始温度）
+|   |--ZYC_G5.ipynb			//ami33测试（增加退火系数）
+|   |--ZYC_G6.ipynb			//ami49测试
+|   |--ZYC_G7.ipynb			//ami49测试（回火）
+|   |--huanjing08.yaml		//anaconda环境配置文件
+|--ResultFromTest			//测试结果（表格从左往右依次为面积、利用率、时间）
+|   |--result_standard.xlsx		//ami33测试结果
+|   |--result_moreHH.xlsx		//ami33测试结果（回火）
+|   |--result_moreIter.xlsx		//ami33测试结果（增加迭代次数）
+|   |--result_moreT0.xlsx		//ami33测试结果（增加初始温度）
+|   |--result_moreAlpha.xlsx		//ami33测试结果（增加退火系数）
+|   |--result_49.xlsx			//ami49测试结果
+|   |--result_49HH.xlsx		//ami49测试结果（回火）
